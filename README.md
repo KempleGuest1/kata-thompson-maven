@@ -1,0 +1,1 @@
+# kata-thompson-maven
